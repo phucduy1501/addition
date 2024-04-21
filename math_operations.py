@@ -6,17 +6,17 @@ result = add(a, b)
 def subtract(a, b):
     return a - b
 
-result = subtract(5, 2)
+result = subtract(a, b)
 
 
 def multiply(a, b):
     return a * b
 
-result = multiply(4, 3)
+result = multiply(a, b)
 
 
 def divide(a, b):
     return a / b
 
-result = divide(10, 2)
+result = divide(a, b)
 print(result)
